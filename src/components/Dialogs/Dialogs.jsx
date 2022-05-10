@@ -2,8 +2,7 @@ import React from 'react';
 import s from './Dialogs.module.css';
 
 
-
-const Dialogs = (props) =>{
+const Dialogs = () => {
     return (
         <div>Dialogs</div>
     )
