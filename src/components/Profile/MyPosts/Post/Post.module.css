@@ -1,0 +1,9 @@
+  .item {
+      color:purple;
+  }
+
+  .item img {
+    width: 90px;
+    high: 90px;
+    border-radius: 50px;
+}
